@@ -1,0 +1,13 @@
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\bin\Debug\netcoreapp3.1\SortingMethods.exe
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\bin\Debug\netcoreapp3.1\SortingMethods.deps.json
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\bin\Debug\netcoreapp3.1\SortingMethods.runtimeconfig.json
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\bin\Debug\netcoreapp3.1\SortingMethods.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\bin\Debug\netcoreapp3.1\SortingMethods.dll
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\bin\Debug\netcoreapp3.1\SortingMethods.pdb
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\obj\Debug\netcoreapp3.1\SortingMethods.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\obj\Debug\netcoreapp3.1\SortingMethods.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\obj\Debug\netcoreapp3.1\SortingMethods.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\obj\Debug\netcoreapp3.1\SortingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\obj\Debug\netcoreapp3.1\SortingMethods.dll
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\obj\Debug\netcoreapp3.1\SortingMethods.pdb
+C:\Users\Jeremy\source\repos\SortingMethods\SortingMethods\obj\Debug\netcoreapp3.1\SortingMethods.genruntimeconfig.cache
