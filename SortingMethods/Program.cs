@@ -11,7 +11,7 @@ namespace SortingMethods
     {
         static void Main(string[] args)
         {
-            int max = 100000; // Number for max payroll
+            int max = 50000; // Number for max payroll
             List<int> payroll = new List<int>();
             List<int> unsortedList = new List<int>();
             List<string> resultMerge = new List<string>();
